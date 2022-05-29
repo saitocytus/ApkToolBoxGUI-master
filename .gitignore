@@ -1,0 +1,19 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+*.classpath
+*.project
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Others
+*.db
+*.log
+*.properties
+/dependency-reduced-pom.xml
+
+tmp/
